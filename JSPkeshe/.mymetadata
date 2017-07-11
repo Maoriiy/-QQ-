@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JSPkeshe"
+  id="myeclipse.1496725143297"
+  context-root="/JSPkeshe"
+  j2ee-spec="5.0"
+  archive="JSPkeshe.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

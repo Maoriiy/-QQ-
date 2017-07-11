@@ -1,0 +1,47 @@
+
+		*{margin: 0; padding: 0;font-family: 寰蒋闆呴粦;}
+		body{background-image: url(img/bg.jpg);background-size:cover ;background-repeat: no-repeat;}
+		#form{
+			width: 500px;height: 350px;
+			background-color: #fff;
+			margin: 350px auto;
+			border-radius: 3px;
+			position: relative;
+			-webkit-box-shadow: #666 0px 0px 20px;
+			-moz-box-shadow: #666 0px 0px 20px;
+			box-shadow: rgba(255,255,255,.8) 0px 0px 20px;
+		}
+		input,button{
+			width: 300px; height: 40px;
+			left: 100px;padding: 10px;
+			font-size: 15px;
+			border-style: solid;border-radius: 3px;
+			position: absolute;
+		}
+		
+		::webkit-input-placeholder { /* WebKit 鍐呮牳娴忚鍣�*/;color: #aaaaaa;font-size: 15px;}
+銆��    	:-moz-placeholder { /* Mozilla Firefox 4 to 18 */color:#aaaaaa;font-size: 15px;}
+		::-moz-placeholder {/* Mozilla Firefox 19+ */color:#aaaaaa;font-size: 15px;}
+銆��    	:-ms-input-placeholder { /* Internet Explorer 10+ */color:#aaaaaa;font-size: 15px;}
+		#id{top: 80px;}
+		#pwd{top: 140px;}
+		#submit{
+			height: 45px;
+			top: 200px;
+			text-align: center;padding-left: 30px;
+			background-color: #8eb900;
+			font-size: 20px;color: #fff;letter-spacing: 23px;
+			border: 0px;
+		}
+		p{
+			font-size: 20px;color: #000000;letter-spacing: 18px;
+			position: absolute;top: 20px;left: 220px;
+		}
+		span{
+			text-decoration: none;color: #666;font-size: 13px;letter-spacing: 2px;
+			position: absolute;bottom: 20px;right: 20px;
+		}
+		a{
+			text-decoration: none;
+			color: #000;
+		}

@@ -1,0 +1,79 @@
+
+		*{margin: 0; padding: 0;font-family: 微软雅黑;}
+		body{background-image: url(img/bg.jpg);background-size:cover ;background-repeat: no-repeat;}
+		form{
+			background-color: #fff;
+			margin: 0 auto;margin-top: 100px;
+			border-radius: 10px;
+			width: 700px;height: 400px;/*position: relative;*/
+			/*padding-left: 30%*/;padding-top: 130px;
+			-webkit-box-shadow: #666 0px 0px 20px;
+			-moz-box-shadow: #666 0px 0px 20px;
+			box-shadow: rgba(180,180,180,.8) 0px 0px 20px;
+		}
+		#content{
+			width: 430px;height:400px ;
+			margin-left:150px;
+		}
+		.p{
+			font-size: 20px;color: #000000;letter-spacing: 18px;
+			position: absolute;top: 150px;left: 795px;
+		}
+		.vsb{
+			width: 430px;height: 50px;
+			font-size: 20px;
+			color: #333;
+			padding: 10px 0 10px 0;
+			position: relative;
+		}
+		span{font-size: 16px;}
+		input{
+			width: 300px; height: 40px;
+			left: 100px;padding: 10px;
+			font-size: 15px;
+			border-style: solid;border-radius: 3px;
+			position: absolute;
+			margin-right: 10px;
+		}
+		p{
+			font-size: 15px;
+			color: #930;
+			position: absolute;
+			left: 100px;
+			top: 55px;
+			display: inline;
+		}
+		.btn{
+			border: 0px;border-radius: 3px;
+			width: 180px;height: 45px;
+			margine-left: 820px;margin-top: 10px;
+			left:130px;
+			background-color: #aeaeae;
+			color: #fff;
+			font-size: 15px;
+			cursor:auto;
+		}.button{
+			width: 100px;height: 38px !important;
+			background-color: #fff;
+			border: 1px solid #dedede;border-radius: 4px;
+			font-size: 14px;color: #565656;
+			text-align: center;verticl-align:middle;
+			cursor:pointer;
+		}
+		.btn1{
+			
+			display: inline-block;
+			opacity: 0;
+			cursor:pointer;
+		}
+		.btn2{
+			display: inline-block;cursor:pointer;
+		}
+		.a{
+			text-decoration:none;
+			color:#000;font-size:13px;
+			position:absolute;
+			margin-left:435px;
+			
+		}
+		
